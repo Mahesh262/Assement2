@@ -15,7 +15,7 @@ const MainContent = () => {
 
   <Col  sm={12} md={3} style={{overflow:"hidden"}}>
    <div>
-   <p  className='three-lines'>Advanced  medical skill atyour finger tips </p>
+   <p  className='three-lines'>Advanced Medical skills atyour finger tips </p>
     
     </div> 
     <Row style={{width:"300px"}}>
